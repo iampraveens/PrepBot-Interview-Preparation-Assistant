@@ -2,12 +2,10 @@
 
   - [Features](#features)
   - [Getting Started](#getting-started)
+  - [Run App](#run-ai)
   - [How to Use](#how-to-use)
   - [Customization](#customization)
   - [License](#license)
-  - [Contributions](#contributions)
-  - [Contact](#contact)
-  - [Acknowledgments](#acknowledgments)
 
 ## Features
 
