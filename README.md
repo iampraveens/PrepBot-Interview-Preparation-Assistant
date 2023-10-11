@@ -1,5 +1,7 @@
 # PrepBot - Interview Preparation Assistant <img src="https://cdn-icons-png.flaticon.com/512/3135/3135714.png" alt="Rule Based ChatBot For Retail" width="50" height="50">
 
+PrepBot is a conversational document retrieval system designed to assist with interview preparation. It utilizes a combination of data ingestion, text embeddings, large language models, and memory management to provide responses to user queries.
+
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Run App](#run-ai)
