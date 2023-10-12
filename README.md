@@ -6,7 +6,6 @@ PrepBot is a conversational document retrieval system designed to assist with in
   - [Getting Started](#getting-started)
   - [Run App](#run-ai)
   - [How to Use](#how-to-use)
-  - [Customization](#customization)
   - [License](#license)
 
 ## Features
@@ -45,8 +44,6 @@ streamlit run app.py
 - Enter your questions in the chat input field.
 - PrepBot will generate responses based on the documents and models it has been configured with.
 
-## Customization
-You can customize by adding more intents to `intents.json` file. Feel free to adapt and extend the system to suit your specific use case.
 
 ## License 
 This project is licensed under the MIT License - see the [License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
