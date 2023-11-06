@@ -2,6 +2,9 @@
 
 PrepBot is a conversational document retrieval system designed to assist with interview preparation. It utilizes a combination of data ingestion, text embeddings, large language models, and memory management to provide responses to user queries.
 
+## Note: Download any one the Transformer from the link given below and add to your working directory
+- https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main
+
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Run App](#run-ai)
